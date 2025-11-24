@@ -1,0 +1,16 @@
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\DAL.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\DTO1.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\DTO1.pdb
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\DTO1.dll.config
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\obj\Debug\DAL.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DAL\obj\Debug\DAL.pdb
