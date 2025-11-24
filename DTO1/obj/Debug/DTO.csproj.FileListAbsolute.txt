@@ -1,0 +1,12 @@
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\DTO1.dll.config
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\DTO1.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\DTO1.pdb
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\obj\Debug\DTO.csproj.Up2Date
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\obj\Debug\DTO1.dll
+C:\Users\ADMIN88\source\repos\QuanLyTranhThu\DTO1\obj\Debug\DTO1.pdb
